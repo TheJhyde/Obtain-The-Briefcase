@@ -1,5 +1,7 @@
 Obtain the Briefcase is a street game that runs off an android phone and was written in Processing. Four teams compete too be in possession of a briefcase for the longest amount time while the briefcase posts it's current location too twitter every three minutes.
 
-For full player rules see http://thejhyde.wordpress.com/obtain-the-briefcase/rules/.
+The code as uploaded is designed to be played in San Francisco, so you will have to alter it too fit your local conditions. Setup and game running instructions see http://thejhyde.wordpress.com/obtain-the-briefcase/setup-instructions/ 
+
+For full player rules see http://thejhyde.wordpress.com/obtain-the-briefcase/rules/ 
 
 If you have any questions about Obtain the Briefcase feel free to e-mail me at jkhyde86@gmail.com
